@@ -1,7 +1,5 @@
 # DEMO for Git
 This is for Git Demo and learning
 
-##Ipsum below
-
-sdfasdfasdfadsfsd asdfasdfasfdf adfasdf ads 
-sadasdasdsada
+##Website Contents
+1. index.html
